@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4c0e777-9660-47d7-b7b2-565d1b7d0068" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.env.dev" beforeDir="false" afterPath="$PROJECT_DIR$/.env.dev" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/welcome/createTestMongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/welcome/createTestMongoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/welcome/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/welcome/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/welcome/mongoose.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/welcome/mongoose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.static.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.static.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/welcome.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/welcome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/response.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/response.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/_schemaNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/_schemaNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/test.model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/test.model.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/error.jade" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/error.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/index.jade" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/index.jade" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/layout.jade" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/layout.jade" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h0Ncgect3M4HUap5f1wjG71Xbj" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c0e777-9660-47d7-b7b2-565d1b7d0068" name="Default Changelist" comment="" />
+      <created>1599144132670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599144132670</updated>
+      <workItem from="1599144135309" duration="545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1599144408335">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599144408335" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1599144408334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599144408334" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1599144408333">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599144408333" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1599144408334">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599144408334" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1599144366324">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1599144366324" />
+  </component>
+</project>
